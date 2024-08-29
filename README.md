@@ -1,5 +1,6 @@
 # Micromouse 
 <p style="color:red;">-I asked chat gpt for the best algorithms we can use, so this is the answer. The idea is to move on to the next topic and try to develop a simulation for each one of them to implement the algorithm</p>
+![Algorithm](https://img.shields.io/badge/Algorithm-Best%20Choices-brightgreen)
 
 
 Micromouse algorithms vary in complexity and speed. Below is a list of common algorithms used in micromouse competitions, ordered from fastest to slowest:
