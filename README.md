@@ -33,7 +33,7 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
    - **Description:** This algorithm computes the shortest path from a single source to all other points in a maze. It's effective but less common due to its complexity compared to A* or flood fill.
   
    - **You might find these links helpful.**
-   - 
+   - https://www.youtube.com/watch?v=j0OUwduDOS0
    -
 
 
@@ -44,7 +44,7 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
 
    - **You might find these links helpful.**
    
-   -**DFS and BFS in daily life:** https://www.youtube.com/watch?v=cPTgB3UeECk
+   - **DFS and BFS in daily life:** https://www.youtube.com/watch?v=cPTgB3UeECk
    - https://www.youtube.com/watch?v=xlVX7dXLS64
 
 
