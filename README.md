@@ -67,8 +67,8 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
      
    - **You might find these links helpful.**
    - https://www.youtube.com/watch?v=feKF-4Osl0U
-   -
+   
 
 
 The performance of these algorithms can also depend on the specific maze and the hardware capabilities of the micromouse.
-----------------------------------------------------------------------------------------------------------------------------------------------
+
