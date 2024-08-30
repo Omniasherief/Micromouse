@@ -1,6 +1,6 @@
 # Micromouse 
 
-- I asked chat gpt for the best algorithms that we can use, so this is his answer; let's discover each one and try to implement and run it on simulations, ok?.
+- I asked chat gpt for the best algorithms that we can use, so this is his answer; let's discover each one , try to implement and run it on simulations, ok?.
 
 - I added links to help you understand every algorithm
 -------------------------------------------------------------------------------------------------------------------------------------------------
