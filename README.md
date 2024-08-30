@@ -25,7 +25,7 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
  
    - **You might find these links helpful.**
    - https://www.youtube.com/watch?v=-L-WgKMFuhE
-   -
+   
 
 
 
@@ -37,7 +37,7 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
   
    - **You might find these links helpful.**
    - https://www.youtube.com/watch?v=j0OUwduDOS0
-   -
+   - https://www.youtube.com/watch?v=FtN3BYH2Zes
 
 
 
@@ -57,8 +57,8 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
    - **Description:** The mouse follows one wall of the maze until it finds the goal. This algorithm is simple and requires minimal computation but is not efficient and can take a long time to reach the goal.
   
    - **You might find these links helpful.**
-   - 
-   -
+   - https://www.youtube.com/watch?v=EPDAweXxKJ4
+   
 
 
 5. **Dead Reckoning**
@@ -66,7 +66,7 @@ Micromouse algorithms vary in complexity and speed. Below is a list of common al
    - **Description:** The mouse moves in a predetermined pattern or direction until it hits a wall, then turns and continues. This method is rarely used as it’s highly inefficient and only suitable for very simple mazes.
      
    - **You might find these links helpful.**
-   - 
+   - https://www.youtube.com/watch?v=feKF-4Osl0U
    -
 
 
